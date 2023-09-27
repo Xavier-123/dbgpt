@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, csunny
+# This file is distributed under the same license as the DB-GPT package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DB-GPT 👏👏 0.3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-29 20:50+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:1
+#: 0baefc753798469588ea011c12a0bfd3
+msgid "Installation FAQ"
+msgstr "Installation FAQ"
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:5
+#: 013bf01a02c842ee8bc576f85d127e22
+#, fuzzy
+msgid ""
+"Q1: execute `pip install -e .` error, found some package cannot find "
+"correct version."
+msgstr ""
+"Q1: execute `pip install -r requirements.txt` error, found some package "
+"cannot find correct version."
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:6
+#: 2729928139484def827143c17f2d968c
+msgid "change the pip source."
+msgstr "替换pip源."
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:13
+#: ../../getting_started/faq/deploy/deploy_faq.md:20
+#: 6e8bf02d7117454fbcc28c7ec27e055a acd2186c0320466f95b500dade75591b
+msgid "or"
+msgstr "或者"
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:27
+#: c5aab9455827416084a1ea6792263add
+msgid ""
+"Q2: sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to"
+" open database file"
+msgstr ""
+"Q2: sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to"
+" open database file"
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:29
+#: 29880cfc6c7f4f6fb14a9cbb9eed07ad
+msgid "make sure you pull latest code or create directory with mkdir pilot/data"
+msgstr "make sure you pull latest code or create directory with mkdir pilot/data"
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:31
+#: 36264030f5cd41bebd17beae12d9be51
+msgid "Q3: The model keeps getting killed."
+msgstr "Q3: The model keeps getting killed."
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:33
+#: 0cbf6ae0fee14d239cb1cc6ddba134d7
+msgid ""
+"your GPU VRAM size is not enough, try replace your hardware or replace "
+"other llms."
+msgstr "GPU显存不够, 增加显存或者换一个显存小的模型"
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:35
+#: 6f4ce365d20843529195aa6970d6074e
+msgid "Q4: How to access website on the public network"
+msgstr ""
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:37
+#: 9f4a119e64c74a0693fa067cd35cd833
+msgid ""
+"You can try to use gradio's [network](https://github.com/gradio-"
+"app/gradio/blob/main/gradio/networking.py) to achieve."
+msgstr ""
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:48
+#: 4c09cfb493ba41fb8590954b986e949d
+msgid "Open `url` with your browser to see the website."
+msgstr ""
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:50
+#: 7d905a99d1c547eb95d9c619c70bf221
+msgid "Q5: (Windows) execute `pip install -e .` error"
+msgstr ""
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:52
+#: fe26218168c4447a8dc89e436cdd1000
+msgid "The error log like the following:"
+msgstr ""
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:71
+#: d15615f7798d4dc0ad49d9b28926fe32
+msgid ""
+"Download and install `Microsoft C++ Build Tools` from [visual-cpp-build-"
+"tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)"
+msgstr ""
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:75
+#: 60ef06d3f99c44c1b568ec7c652905ee
+msgid "Q6: `Torch not compiled with CUDA enabled`"
+msgstr ""
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:82
+#: 830e63627d2c48b8987ed20db3405c41
+msgid "Install [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-archive)"
+msgstr ""
+
+#: ../../getting_started/faq/deploy/deploy_faq.md:83
+#: 50a1c244ddf747d797825158550026b9
+msgid ""
+"Reinstall PyTorch [start-locally](https://pytorch.org/get-started/locally"
+"/#start-locally) with CUDA support."
+msgstr ""
+
+#~ msgid ""
+#~ "Q2: When use Mysql, Access denied "
+#~ "for user 'root@localhost'(using password :NO)"
+#~ msgstr ""
+
+#~ msgid "A3: make sure you have installed mysql instance in right way"
+#~ msgstr ""
+
+#~ msgid "Docker:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Normal: [download mysql "
+#~ "instance](https://dev.mysql.com/downloads/mysql/)"
+#~ msgstr ""
+

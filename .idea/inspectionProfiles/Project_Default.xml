@@ -1,0 +1,99 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="85">
+            <item index="0" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="1" class="java.lang.String" itemvalue="opencv-contrib-python" />
+            <item index="2" class="java.lang.String" itemvalue="PyMuPDF" />
+            <item index="3" class="java.lang.String" itemvalue="lanms-neo" />
+            <item index="4" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="5" class="java.lang.String" itemvalue="cython" />
+            <item index="6" class="java.lang.String" itemvalue="imgaug" />
+            <item index="7" class="java.lang.String" itemvalue="Polygon3" />
+            <item index="8" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="9" class="java.lang.String" itemvalue="interrogate" />
+            <item index="10" class="java.lang.String" itemvalue="pytest" />
+            <item index="11" class="java.lang.String" itemvalue="isort" />
+            <item index="12" class="java.lang.String" itemvalue="xdoctest" />
+            <item index="13" class="java.lang.String" itemvalue="codecov" />
+            <item index="14" class="java.lang.String" itemvalue="flake8" />
+            <item index="15" class="java.lang.String" itemvalue="imagecorruptions" />
+            <item index="16" class="java.lang.String" itemvalue="onnxruntime" />
+            <item index="17" class="java.lang.String" itemvalue="timm" />
+            <item index="18" class="java.lang.String" itemvalue="mmtrack" />
+            <item index="19" class="java.lang.String" itemvalue="cityscapesscripts" />
+            <item index="20" class="java.lang.String" itemvalue="sklearn" />
+            <item index="21" class="java.lang.String" itemvalue="kwarray" />
+            <item index="22" class="java.lang.String" itemvalue="asynctest" />
+            <item index="23" class="java.lang.String" itemvalue="onnx" />
+            <item index="24" class="java.lang.String" itemvalue="ubelt" />
+            <item index="25" class="java.lang.String" itemvalue="ninja" />
+            <item index="26" class="java.lang.String" itemvalue="tabulate" />
+            <item index="27" class="java.lang.String" itemvalue="onnx-simplifier" />
+            <item index="28" class="java.lang.String" itemvalue="loguru" />
+            <item index="29" class="java.lang.String" itemvalue="pycocotools" />
+            <item index="30" class="java.lang.String" itemvalue="pandas" />
+            <item index="31" class="java.lang.String" itemvalue="tqdm" />
+            <item index="32" class="java.lang.String" itemvalue="scipy" />
+            <item index="33" class="java.lang.String" itemvalue="transformers" />
+            <item index="34" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="35" class="java.lang.String" itemvalue="seaborn" />
+            <item index="36" class="java.lang.String" itemvalue="PrettyTable" />
+            <item index="37" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="38" class="java.lang.String" itemvalue="numpy" />
+            <item index="39" class="java.lang.String" itemvalue="torch" />
+            <item index="40" class="java.lang.String" itemvalue="PIL" />
+            <item index="41" class="java.lang.String" itemvalue="protobuf" />
+            <item index="42" class="java.lang.String" itemvalue="kornia" />
+            <item index="43" class="java.lang.String" itemvalue="autopep8" />
+            <item index="44" class="java.lang.String" itemvalue="pylint" />
+            <item index="45" class="java.lang.String" itemvalue="h5py" />
+            <item index="46" class="java.lang.String" itemvalue="ray" />
+            <item index="47" class="java.lang.String" itemvalue="einops" />
+            <item index="48" class="java.lang.String" itemvalue="jupyterlab" />
+            <item index="49" class="java.lang.String" itemvalue="opencv_python" />
+            <item index="50" class="java.lang.String" itemvalue="mmdet" />
+            <item index="51" class="java.lang.String" itemvalue="coverage" />
+            <item index="52" class="java.lang.String" itemvalue="mmedit" />
+            <item index="53" class="java.lang.String" itemvalue="mmpose" />
+            <item index="54" class="java.lang.String" itemvalue="mmocr" />
+            <item index="55" class="java.lang.String" itemvalue="openvino-dev" />
+            <item index="56" class="java.lang.String" itemvalue="easydict" />
+            <item index="57" class="java.lang.String" itemvalue="mmsegmentation" />
+            <item index="58" class="java.lang.String" itemvalue="mmrazor" />
+            <item index="59" class="java.lang.String" itemvalue="mmcls" />
+            <item index="60" class="java.lang.String" itemvalue="xlrd" />
+            <item index="61" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="62" class="java.lang.String" itemvalue="cmake" />
+            <item index="63" class="java.lang.String" itemvalue="Cython" />
+            <item index="64" class="java.lang.String" itemvalue="tensorboardX" />
+            <item index="65" class="java.lang.String" itemvalue="torchvision" />
+            <item index="66" class="java.lang.String" itemvalue="bcolz" />
+            <item index="67" class="java.lang.String" itemvalue="memory_profiler" />
+            <item index="68" class="java.lang.String" itemvalue="parameterized" />
+            <item index="69" class="java.lang.String" itemvalue="psutil" />
+            <item index="70" class="java.lang.String" itemvalue="albumentations" />
+            <item index="71" class="java.lang.String" itemvalue="mmlvis" />
+            <item index="72" class="java.lang.String" itemvalue="mmpycocotools" />
+            <item index="73" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="74" class="java.lang.String" itemvalue="charset_normalizer" />
+            <item index="75" class="java.lang.String" itemvalue="fastapi" />
+            <item index="76" class="java.lang.String" itemvalue="gradio" />
+            <item index="77" class="java.lang.String" itemvalue="icetk" />
+            <item index="78" class="java.lang.String" itemvalue="cpm_kernels" />
+            <item index="79" class="java.lang.String" itemvalue="langchain" />
+            <item index="80" class="java.lang.String" itemvalue="starlette" />
+            <item index="81" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="82" class="java.lang.String" itemvalue="requests" />
+            <item index="83" class="java.lang.String" itemvalue="feedparser" />
+            <item index="84" class="java.lang.String" itemvalue="azure-core" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
